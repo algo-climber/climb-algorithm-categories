@@ -1,5 +1,3 @@
-package _2024_09._2024_09_25.방승윤;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
