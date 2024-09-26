@@ -19,8 +19,8 @@
         // 방문하지 않은 값이면 넣기
         if(!visited[i]) {
             visited[i] = true;    // 방문 처리
-            output[depth] = arr[i];    // 현재 depth를 인덱스로 사용
-            permutation(depth + 1, n, r);    // depth + 1를 전달
+            result[count] = arr[i];    // 현재 count를 인덱스로 사용
+            permutation(count + 1, n, r);    // count + 1를 전달
             visited[i] = false; // 다음 순열을 뽑기위해 방문처리 제거
         }
     }
@@ -29,24 +29,24 @@
 ```
 // 0부터 n까지 반복
 	for (int i = 0; i < n; i++) {
-		output[depth] = arr[i]; // 현재 depth를 인덱스로 사용
-		repeatPermutation(depth + 1, n, r); // depth + 1를 전달
+		result[count] = arr[i]; // 현재 count를 인덱스로 사용
+		repeatPermutation(count + 1, n, r); // count + 1를 전달
 	}
 ```
 일반 조합 - visited를 사용하지 않아도 된다. 매개변수로 받은 인덱스 + 1부터 반복하여 함수를 재귀한다.<br>
 ```
 // start 부터 n까지 반복
 	for(int i = start; i < n; i++) {
-		output[depth] = arr[i];	// 현재 depth를 인덱스로 사용
-		combination(i + 1, depth + 1, n, r);	// i + 1, depth + 1를 전달
+		result[count] = arr[i];	// 현재 count를 인덱스로 사용
+		combination(i + 1, count + 1, n, r);	// i + 1, count + 1를 전달
 	}
 ```
 중복 조합 - visited를 사용하지 않아도 된다. 매개변수로 받은 인덱스부터 반복하여 함수를 재귀한다.<br>
 ```
 // start 부터 n까지 반복
 	for(int i = start; i < n; i++) {
-		output[depth] = arr[i];	// 현재 depth를 인덱스로 사용
-		repeatCombination(i, depth + 1, n, r);	// i, depth + 1를 전달
+		result[count] = arr[i];	// 현재 count를 인덱스로 사용
+		repeatCombination(i, count + 1, n, r);	// i, count + 1를 전달
 	}
 ```
 
