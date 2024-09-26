@@ -17,14 +17,14 @@
 |이분 탐색|https://www.acmicpc.net/problem/2805|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |DFS(깊이 우선 탐색)|https://www.acmicpc.net/problem/1260|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |BFS(너비 우선 탐색)|위와 동일|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
-|백트래킹|N과 M|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
+|백트래킹|N과 M|2024.09.26|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |시뮬레이션, 구현|아기 상어|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |그리디(탐욕법)|https://www.acmicpc.net/problem/1541|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |누적합|https://www.acmicpc.net/problem/11660|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |분할정복|https://www.acmicpc.net/problem/2630|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |투포인터(슬라이딩 윈도우)|https://www.acmicpc.net/problem/2467|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |위상정렬|https://www.acmicpc.net/problem/1005|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
-|DP|https://www.acmicpc.net/problem/12865|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
+|DP|https://www.acmicpc.net/problem/12865|2024.09.25|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |다익스트라|https://www.acmicpc.net/problem/1967|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |플로이드-워셜|https://www.acmicpc.net/problem/11404|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
 |벨만 포드|https://www.acmicpc.net/problem/1865|2024.00.00|---|⛔|⛔|⛔|⛔|⛔|⛔|
