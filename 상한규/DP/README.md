@@ -22,6 +22,24 @@ DP, 동적 프로그래밍이란 복잡한 문제를 더 간단한 하위 문제
 중복 계산을 피하기 위해 하위 문제의 결과를 표에 저장한다.<br>
 하위 문제의 개수가 적고, 하위 문제의 해법에서 최적 해법을 직접 계산할 수 있을 때 사용한다.<br>
 
+## 문제를 풀며 느낀 점
+중복 생각! 순서 생각! (순열 조합이 여기서도 쓰이네,,)
+- 평범한 배낭.java
+```
+		for(int i = 0; i < N; i++) {
+			st = new StringTokenizer(br.readLine());
+			int W = Integer.parseInt(st.nextToken());
+			int V = Integer.parseInt(st.nextToken());
+			
+			for(int j = K; j >= W; j--) {
+				dp[j] = Math.max(V + dp[j - W], dp[j]);
+			}
+		}
+```
+중복이 없는 경우에는 for문을 감소시키면서 돌리는게 편하다!<br>
+
+
+
 ## ETC
 - 점화식을 사용할 수 있으면 이 방법을 생각해보자.
 - 문제를 잘게 쪼갤 수 있다면, DP의 가능성이 높다.
