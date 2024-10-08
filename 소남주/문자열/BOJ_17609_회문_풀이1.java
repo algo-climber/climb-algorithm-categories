@@ -28,7 +28,7 @@ import java.io.InputStreamReader;
    - left <= right 조건일 때 반복 수행
 */
 
-public class BOJ_17609_회문 {
+public class BOJ_17609_회문_풀이1 {
 	
 	static BufferedReader br;
 	static StringBuilder sb;
