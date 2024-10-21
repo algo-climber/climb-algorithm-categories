@@ -10,24 +10,24 @@
 
 | 유형                                | 대표 문제                             | 학습 일자  | 이해도 | 방승윤 | 상한규 | 소남주 | 양영조 | 유영신 | 한병현 |
 | ----------------------------------- | ------------------------------------- | ---------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 문자열                              | https://www.acmicpc.net/problem/17609 | 2024.10.07 | ---    | ⛔     | 🌱     | 🌱     | ⛔     | 🌱     | 🌱     |
-| 정렬                                | https://www.acmicpc.net/problem/1931  | 2024.10.14 | ---    | ⛔     | 🌱     | 🌱     | ⛔     | 🌱     | ✅     |
-| 스택                                | https://www.acmicpc.net/problem/17162 | 2024.10.21 | ---    | ⛔     | ✅     | ✅     | ⛔     | 🌱     | 🌱     |
-| 큐                                  | https://www.acmicpc.net/problem/1966  | 2024.10.21 | ---    | ⛔     | ✅     | ✅     | ⛔     | 🌱     | 🌱     |
+| 문자열                              | https://www.acmicpc.net/problem/17609 | 2024.10.07 | ---    | ⛔     | 🌱     | 🌱     | 🌱     | 🌱     | 🌱     |
+| 정렬                                | https://www.acmicpc.net/problem/1931  | 2024.10.14 | ---    | ⛔     | 🌱     | 🌱     | 🌱     | 🌱     | ✅     |
+| 스택                                | https://www.acmicpc.net/problem/17162 | 2024.10.21 | ---    | ⛔     | ✅     | ✅     | ✅     | 🌱     | 🌱     |
+| 큐                                  | https://www.acmicpc.net/problem/1966  | 2024.10.21 | ---    | ⛔     | ✅     | ✅     | 🌱     | 🌱     | 🌱     |
 | 우선순위큐                          | https://www.acmicpc.net/problem/7662  | 2024.10.21 | ---    | ⛔     | 🌱     | ⛔     | ⛔     | ⛔     | 🌱     |
-| Set, Map                            | https://www.acmicpc.net/problem/1620  | 2024.00.00 | ---    | ⛔     | ⛔     | ✅     | ⛔     | 🌱     | 🌱     |
-| 이분 탐색                           | https://www.acmicpc.net/problem/2805  | 2024.00.00 | ---    | ⛔     | ⛔     | 🌱     | ⛔     | ⛔     | ✅     |
-| DFS(깊이 우선 탐색)                 | https://www.acmicpc.net/problem/1260  | 2024.00.00 | ---    | ⛔     | 🌱     | 🌱     | ⛔     | ⛔     | 🌱     |
-| BFS(너비 우선 탐색)                 | 위와 동일                             | 2024.00.00 | ---    | ⛔     | ✅     | 🌱     | ⛔     | ⛔     | 🌱     |
-| 순열 조합                           | https://www.acmicpc.net/problem/5568  | 2024.09.26 | ---    | ⛔     | ⛔     | ✅     | ⛔     | ⛔     | ⛔     |
-| 백트래킹                            | N과 M                                 | 2024.00.00 | ---    | ⛔     | ⛔     | 🌱     | ⛔     | ⛔     | ⛔     |
+| Set, Map                            | https://www.acmicpc.net/problem/1620  | 2024.00.00 | ---    | ⛔     | ⛔     | ✅     | 🌱     | 🌱     | 🌱     |
+| 이분 탐색                           | https://www.acmicpc.net/problem/2805  | 2024.00.00 | ---    | ⛔     | ⛔     | 🌱     | 🌱     | ⛔     | ✅     |
+| DFS(깊이 우선 탐색)                 | https://www.acmicpc.net/problem/1260  | 2024.00.00 | ---    | ⛔     | 🌱     | 🌱     | 🌱     | ⛔     | 🌱     |
+| BFS(너비 우선 탐색)                 | 위와 동일                             | 2024.00.00 | ---    | ⛔     | ✅     | 🌱     | 🌱     | ⛔     | 🌱     |
+| 순열 조합                           | https://www.acmicpc.net/problem/5568  | 2024.09.26 | ---    | ⛔     | ⛔     | ✅     | 🌱     | ⛔     | ⛔     |
+| 백트래킹                            | N과 M                                 | 2024.00.00 | ---    | ⛔     | ⛔     | 🌱     | 🌱     | ⛔     | ⛔     |
 | 시뮬레이션, 구현                    | 아기 상어                             | 2024.00.00 | ---    | ⛔     | ✅     | 🌱     | ⛔     | ⛔     | ⛔     |
 | 그리디(탐욕법)                      | https://www.acmicpc.net/problem/1541  | 2024.00.00 | ---    | ⛔     | 🌱     | 🌱     | ⛔     | ⛔     | ⛔     |
 | 누적합                              | https://www.acmicpc.net/problem/11660 | 2024.00.00 | ---    | ⛔     | ⛔     | 🌱     | ⛔     | ⛔     | ⛔     |
 | 분할정복                            | https://www.acmicpc.net/problem/2630  | 2024.00.00 | ---    | ⛔     | 🌱     | ⛔     | ⛔     | ⛔     | ⛔     |
 | 투포인터(슬라이딩 윈도우)           | https://www.acmicpc.net/problem/2467  | 2024.00.00 | ---    | ⛔     | 🌱     | ⛔     | ⛔     | ⛔     | ⛔     |
 | 위상정렬                            | https://www.acmicpc.net/problem/1005  | 2024.00.00 | ---    | ⛔     | ⛔     | ⛔     | ⛔     | ⛔     | ⛔     |
-| DP                                  | https://www.acmicpc.net/problem/12865 | 2024.09.25 | ---    | ⛔     | ⛔     | 🌱     | ⛔     | ⛔     | 🌱     |
+| DP                                  | https://www.acmicpc.net/problem/12865 | 2024.09.25 | ---    | ⛔     | ⛔     | 🌱     | 🌱     | ⛔     | 🌱     |
 | 다익스트라                          | https://www.acmicpc.net/problem/1967  | 2024.00.00 | ---    | ⛔     | ⛔     | ⛔     | ⛔     | ⛔     | ⛔     |
 | 플로이드-워셜                       | https://www.acmicpc.net/problem/11404 | 2024.00.00 | ---    | ⛔     | ⛔     | ⛔     | ⛔     | ⛔     | ⛔     |
 | 벨만 포드                           | https://www.acmicpc.net/problem/1865  | 2024.00.00 | ---    | ⛔     | ⛔     | ⛔     | ⛔     | ⛔     | ⛔     |
