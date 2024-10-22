@@ -27,6 +27,7 @@
 ```
 <br>
 중복 순열 - visited를 사용하지 않아도 된다. 0번째 인덱스부터 반복하여 함수를 재귀한다.<br>
+
 ```
 // 0부터 n까지 반복
 	for (int i = 0; i < n; i++) {
@@ -34,8 +35,10 @@
 		repeatPermutation(count + 1, n, r); // count + 1를 전달
 	}
 ```
+
 <br>
 일반 조합 - visited를 사용하지 않아도 된다. 매개변수로 받은 인덱스 + 1부터 반복하여 함수를 재귀한다.<br>
+
 ```
 // start 부터 n까지 반복
 	for(int i = start; i < n; i++) {
@@ -43,8 +46,10 @@
 		combination(i + 1, count + 1, n, r);	// i + 1, count + 1를 전달
 	}
 ```
+
 <br>
 중복 조합 - visited를 사용하지 않아도 된다. 매개변수로 받은 인덱스부터 반복하여 함수를 재귀한다.<br>
+
 ```
 // start 부터 n까지 반복
 	for(int i = start; i < n; i++) {
