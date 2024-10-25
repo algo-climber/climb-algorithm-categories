@@ -25,7 +25,7 @@ DP, 동적 프로그래밍이란 복잡한 문제를 더 간단한 하위 문제
 ## 문제를 풀며 느낀 점
 중복 생각! 순서 생각! (순열 조합이 여기서도 쓰이네,,)
 - 평범한 배낭.java
-```
+```java
 		for(int i = 0; i < N; i++) {
 			st = new StringTokenizer(br.readLine());
 			int W = Integer.parseInt(st.nextToken());
